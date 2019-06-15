@@ -1,0 +1,16 @@
+*.class
+
+
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# node
+target/
+venv/
+__MACOSX/
+.idea
+
+*.log
